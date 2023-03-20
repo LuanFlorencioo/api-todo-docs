@@ -2,6 +2,8 @@
 
 The **Todo App API** is a web application developed with Node.js, Typescript, Express and TypeORM, which offers functionalities to manage tasks. The application has authenticated routes, which guarantee the security of user data.
 
+[![Doc](https://img.shields.io/badge/API%20Documentation-https%3A%2F%2Fapi--todo--docs.vercel.app%2F-blueviolet?style=for-the-badge&logo=vercel)](https://api-todo-docs.vercel.app/)
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
